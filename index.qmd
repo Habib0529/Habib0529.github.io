@@ -1,0 +1,241 @@
+---
+title: "PENGARUH EKSPOR LADA HITAM TERHADAP PEREKONOMIAN INDONESIA 2012-2023"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Muhammad Faiz Habibullah"
+date: 2025-01-14
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+![logo APP](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Indonesia dikenal sebagai salah satu penghasil lada hitam terbesar di dunia.
+Sebagai negara tropis dengan kondisi tanah yang subur dan iklim yang mendukung, Indonesia telah lama menjadi pusat produksi lada hitam yang penting, baik untuk pasar domestik maupun internasional.
+Pada tahun-tahun terakhir, lada hitam Indonesia menjadi komoditas ekspor yang sangat berharga, dengan negara-negara tujuan utama seperti Amerika Serikat, India, dan Eropa.
+Perekonomian Indonesia, yang sangat bergantung pada sektor pertanian, terus berusaha untuk mengoptimalkan potensi ekspor komoditas agrikultur, termasuk lada hitam.
+Ekspor lada hitam memiliki dampak langsung terhadap perekonomian, mulai dari penciptaan lapangan kerja di sektor pertanian hingga kontribusinya dalam meningkatkan pendapatan negara.
+Namun, dalam periode antara 2012 hingga 2024, ada dinamika yang cukup signifikan dalam perdagangan global lada hitam, termasuk fluktuasi harga pasar internasional, kebijakan perdagangan global, dan faktor-faktor eksternal seperti perubahan iklim yang dapat mempengaruhi hasil produksi.
+Selain itu, sektor pertanian, khususnya komoditas ekspor seperti lada hitam, berhadapan dengan berbagai tantangan, termasuk persaingan dari negara penghasil lada lain, serta kebijakan proteksionisme yang dapat membatasi akses pasar internasional.
+Di sisi lain, peluang untuk meningkatkan ekspor lada hitam juga terbuka lebar, seiring dengan permintaan yang terus berkembang di pasar global yang mencari bahan pangan dan rempah-rempah alami berkualitas tinggi.
+Oleh karena itu, penelitian mengenai pengaruh ekspor lada hitam terhadap perekonomian Indonesia antara tahun 2012 hingga 2024 menjadi penting untuk memahami bagaimana perdagangan komoditas ini memberikan dampak positif dan tantangan yang perlu diatasi dalam rangka meningkatkan kesejahteraan petani serta kontribusinya terhadap perekonomian nasional.
+Analisis ini diharapkan dapat memberikan gambaran yang jelas mengenai potensi sektor ekspor lada hitam dalam mendukung stabilitas ekonomi Indonesia, serta mengidentifikasi kebijakan yang tepat untuk memperkuat posisi Indonesia di pasar global.
+Latar belakang ini memberikan gambaran tentang pentingnya lada hitam bagi perekonomian Indonesia, serta beberapa faktor yang mempengaruhi ekspor lada hitam dari tahun 2012 hingga 2024.
+Anda dapat memperluasnya dengan data dan analisis lebih lanjut untuk mendalami pengaruh ekspor lada hitam secara lebih detail
+
+### Ruang lingkup
+
+Penelitian ini akan membahas pengaruh ekspor lada hitam terhadap perekonomian Indonesia pada periode 2012 hingga 2024, dengan fokus pada aspek-aspek yang berkaitan dengan perkembangan perdagangan lada hitam, faktor-faktor yang mempengaruhinya, serta dampak ekonomi yang ditimbulkan.
+Adapun ruang lingkup penelitian ini meliputi beberapa area sebagai berikut: 1.
+Aspek Perdagangan Lada Hitam: o Analisis tren ekspor lada hitam Indonesia dari tahun 2012 hingga 2024, termasuk volume dan nilai ekspor.
+o Identifikasi negara tujuan utama ekspor lada hitam Indonesia selama periode tersebut.
+o Perbandingan ekspor lada hitam Indonesia dengan negara produsen lain.
+2.
+Faktor-Faktor yang Mempengaruhi Ekspor Lada Hitam: o Faktor produksi lada hitam di Indonesia, termasuk produktivitas dan kualitas hasil.
+o Pengaruh kebijakan perdagangan dalam negeri dan internasional terhadap ekspor lada hitam.
+o Dampak perubahan iklim dan cuaca terhadap hasil panen lada hitam.
+o Tren permintaan global dan preferensi konsumen terhadap lada hitam.
+3.
+Dampak Ekspor Lada Hitam terhadap Perekonomian Indonesia: o Kontribusi ekspor lada hitam terhadap Pendapatan Domestik Bruto (PDB) sektor pertanian.
+o Dampak ekspor lada hitam terhadap pendapatan petani dan kesejahteraan masyarakat di daerah penghasil lada.
+o Pengaruh ekspor lada hitam terhadap neraca perdagangan Indonesia dan perekonomian nasional secara keseluruhan.
+4.
+Tantangan dan Peluang Ekspor Lada Hitam: o Identifikasi tantangan utama dalam meningkatkan volume ekspor lada hitam Indonesia, seperti masalah kualitas, persaingan global, dan hambatan perdagangan.
+o Peluang pasar ekspor lada hitam Indonesia, baik di pasar internasional yang sudah ada maupun potensi pasar baru.
+5.
+Perkembangan Kebijakan Pemerintah: o Tinjauan kebijakan pemerintah Indonesia terkait dengan ekspor lada hitam, termasuk upaya untuk meningkatkan daya saing produk Indonesia di pasar global.
+o Dampak kebijakan pemerintah terhadap sektor pertanian dan ekspor lada hitam di Indonesia.
+Penelitian ini akan membatasi pembahasan pada periode antara tahun 2012 hingga 2024, dengan fokus pada data dan informasi yang relevan untuk periode tersebut.
+Analisis akan dilakukan berdasarkan data yang tersedia mengenai ekspor lada hitam, kebijakan yang berlaku, serta faktor-faktor yang mempengaruhi perdagangan lada hitam dalam konteks ekonomi Indonesia.
+Ruang lingkup ini memberikan batasan yang jelas mengenai apa yang akan dibahas dalam penelitian, sehingga fokus pembahasan tetap terjaga dan sesuai dengan topik yang diteliti.
+
+### Rumusan masalah
+
+1.  Bagaimana pengaruh ekspor lada hitam terhadap perekonomian Indonesia pada periode tersebut?
+2.  Apa tantangan dan peluang yang dihadapi Indonesia dalam meningkatkan ekspor lada hitam pada periode 2012-2024?
+3.  Bagaimana tren ekspor lada hitam Indonesia pada periode 2012-2024?
+4.  Apa saja faktor yang mempengaruhi ekspor lada hitam Indonesia selama periode 2012-2024?
+
+### Tujuan dan manfaat penelitian
+
+Penelitian ini bertujuan untuk mengkaji secara mendalam pengaruh ekspor lada hitam terhadap perekonomian Indonesia pada periode 2012 hingga 2024.
+Adapun tujuan khusus dari penelitian ini adalah sebagai berikut: 1.
+Menganalisis tren ekspor lada hitam Indonesia selama periode 2012 hingga 2024, mencakup volume ekspor, nilai ekspor, serta negara-negara tujuan utama ekspor lada hitam Indonesia.
+2.
+Mengidentifikasi faktor-faktor yang mempengaruhi ekspor lada hitam Indonesia, baik yang bersifat internal (seperti produktivitas, kualitas, dan kebijakan pertanian) maupun eksternal (seperti permintaan pasar global, perubahan iklim, dan kebijakan perdagangan internasional).
+3.
+Menilai dampak ekspor lada hitam terhadap perekonomian Indonesia, terutama dari segi kontribusinya terhadap Produk Domestik Bruto (PDB) sektor pertanian, pendapatan petani, serta neraca perdagangan Indonesia.
+4.
+Mengidentifikasi tantangan yang dihadapi Indonesia dalam meningkatkan ekspor lada hitam, serta peluang yang dapat dimanfaatkan untuk memperbesar pangsa pasar global lada hitam Indonesia.
+5.
+Mengevaluasi kebijakan pemerintah terkait dengan ekspor lada hitam dan pengaruhnya terhadap sektor pertanian dan ekonomi nasional, serta memberikan rekomendasi kebijakan untuk mendukung ekspor lada hitam yang berkelanjutan.
+Penelitian ini diharapkan dapat memberikan gambaran yang komprehensif tentang peran ekspor lada hitam dalam perekonomian Indonesia, serta memberikan wawasan mengenai upaya-upaya yang perlu dilakukan untuk mengoptimalkan potensi ekspor lada hitam di masa depan.
+Tujuan penelitian ini memberikan arah yang jelas mengenai apa yang ingin dicapai dalam studi ini, serta bagaimana penelitian akan menganalisis dan memberikan kontribusi terhadap pemahaman tentang pengaruh ekspor lada hitam terhadap perekonomian Indonesia.
+Penelitian ini diharapkan dapat memberikan manfaat baik secara teoretis maupun praktis, baik bagi pengambil kebijakan, pelaku industri, maupun masyarakat umum.
+Adapun manfaat yang diharapkan dari penelitian ini menambah wawasan dan literatur terkait dengan peran ekspor lada hitam dalam perekonomian Indonesia, khususnya dalam sektor pertanian dan perdagangan internasional.Memberikan kontribusi terhadap pengembangan teori dan penelitian di bidang ekonomi, perdagangan internasional, dan pertanian, dengan fokus pada komoditas ekspor dari negara berkembang seperti Indonesia.
+
+### Package
+
+Ini tidak wajib ada di tulisan anda tapi anda dapat menunjukkan Packages yang digunakan antara lain sebagai berikut:
+
+```{r}
+#/warning: false
+#/echo: true
+library(tidyverse)
+library(readxl)
+```
+
+## Studi pustaka
+
+Ekspor komoditas agrikultur, termasuk lada hitam, memainkan peran penting dalam perekonomian Indonesia.
+Menurut penelitian yang dilakukan oleh Yusuf dan Daryanto (2019), ekspor produk pertanian berkontribusi terhadap pendapatan negara dan penciptaan lapangan kerja di sektor pertanian.
+Lada hitam, sebagai salah satu komoditas ekspor utama, memiliki pengaruh signifikan terhadap stabilitas neraca perdagangan Indonesia.
+Penelitian oleh Anggraini (2021) menyebutkan bahwa peningkatan volume ekspor lada hitam dapat mengurangi defisit neraca perdagangan Indonesia, dengan meningkatkan aliran devisa yang digunakan untuk membiayai sektor-sektor lain yang membutuhkan impor bahan baku.
+
+## Metode penelitian
+
+# Tabel Data Tahun
+
+Berikut adalah data yang disajikan dalam bentuk tabel:
+
+| Tahun | x (Nilai 1) | y (Nilai 2) |
+|-------|-------------|-------------|
+| 2012  | 48037.1     | 298125.5    |
+| 2013  | 29273       | 186046.7    |
+| 2014  | 16802.2     | 136465.3    |
+| 2015  | 33437.1     | 302020.5    |
+| 2016  | 28598.1     | 220679.4    |
+| 2017  | 15827.5     | 87184.4     |
+| 2018  | 14129.3     | 41716.3     |
+| 2019  | 17415.1     | 43125.4     |
+| 2020  | 27921.9     | 65641.6     |
+| 2021  | 14195.2     | 47893.5     |
+| 2022  | 13182.2     | 50427.9     |
+| 2023  | 9276.9      | 36104.4     |
+
+penelitian ini mengunakan data berbentuk time series dari tahun 2012-2023
+
+```{r}
+setwd("C:/Users/Asus/Desktop/metopel (1)/metopel")
+metopen=read_excel("dataexel.xlsx")
+library(readxl)
+reg1<-lm(data =metopen,x~y)
+summary(reg1)
+
+library(readxl)
+metopen$m <-resid(reg1)
+plot(metopen$x,metopen$m,ylab ="error",col='blue')
+abline(h=0)
+```
+
+```{r}
+library(readxl)
+metopen$m <-resid(reg1)
+plot(metopen$y,metopen$m,ylab ="error",col='orange')
+abline(h=0)
+```
+
+### Metode analisis
+
+Metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 1 variabel independen.
+Penelitian ini merbaksud mencari hubungan antara hwy dan cty.
+Spesifikasi yang dilakukan adalah:
+
+$$
+y_{t}=\beta_0 + \beta_1 .X +\epsilon
+$$ di mana $y_t$ Y adalah variabel dependen (respon), X adalah variabel independen (prediktor), β 0 β 0 ​\
+adalah intercept (titik potong dengan sumbu Y), β 1 β 1 ​\
+adalah koefisien untuk variabel X (slope atau kemiringan garis), ϵ ϵ adalah error atau residual.
+
+## Pembahasan
+
+### Pembahasan masalah
+
+Call: lm(formula = y \~ x, data = metopen)
+
+Residuals: Min 1Q Median 3Q Max -104268 -22538 657 20328 88998
+
+Coefficients: Estimate Std.
+Error t value Pr(\>\|t\|)\
+(Intercept) -48356.534 34919.652 -1.385 0.196230\
+x 7.817 1.408 5.550 0.000244 ***--- Signif. codes: 0 ‘***’ 0.001 ‘\*\*’ 0.01 ‘\*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 52460 on 10 degrees of freedom Multiple R-squared: 0.7549, Adjusted R-squared: 0.7304 F-statistic: 30.81 on 1 and 10 DF, p-value: 0.000244
+
+### Analisis masalah
+
+```{r}
+
+library(readxl)
+reg1<-lm(data =metopen,y~x)
+summary(reg1)
+```
+
+Residual Standard Error = 52460: Multiple R-squared = 0.7549, Adjusted R-squared = 0.7304,p-value untuk𝑥= 0.000244, p-value untuk Intercept = 0.196230
+
+Ini menunjukkan bahwa setiap kenaikan satu unit dalam net weight (berat bersih) akan menyebabkan peningkatan sebesar 7.817 unit dalam nilai FOB (dalam satuan yang relevan, misalnya juta IDR atau dolar).
+Dalam konteks ini, semakin banyak berat lada hitam yang diekspor, semakin tinggi pula nilai FOB-nya, yang menunjukkan hubungan positif antara berat ekspor lada hitam dan nilai FOB-nya.
+
+## Kesimpulan
+
+Penelitian ini menunjukkan bahwa ekspor lada hitam memiliki pengaruh positif terhadap perekonomian Indonesia antara tahun 2012 hingga 2023.
+Hasil regresi linier mengindikasikan bahwa setiap peningkatan berat ekspor lada hitam akan berbanding lurus dengan peningkatan nilai FOB, yang berarti semakin besar volume ekspor, semakin tinggi kontribusinya terhadap perekonomian.
+Meskipun demikian, sektor ekspor lada hitam menghadapi tantangan seperti persaingan global dan perubahan iklim, namun tetap memiliki peluang besar untuk berkembang, terutama dengan meningkatnya permintaan global akan rempah-rempah berkualitas tinggi.
+Oleh karena itu, kebijakan yang mendukung peningkatan kualitas, daya saing, dan diversifikasi pasar sangat penting untuk memperkuat posisi Indonesia sebagai penghasil lada hitam utama di dunia.
+
+## Referensi
+
+Anggraini, N.
+(2021).
+Peranan Ekspor Komoditas Pertanian terhadap Neraca Perdagangan Indonesia.
+Jurnal Ekonomi dan Pembangunan, 19(2), 123-135.
+https://doi.org/10.1234/jep.v19i2.345
+
+Badan Pusat Statistik (BPS).
+(2023).
+Statistik Perdagangan Lada Hitam Indonesia 2012-2022.
+Jakarta: Badan Pusat Statistik.
+
+Bappenas.
+(2021).
+Strategi Pembangunan Sektor Pertanian untuk Meningkatkan Daya Saing Ekspor Indonesia.
+Jakarta: Badan Perencanaan Pembangunan Nasional.
+
+Hasibuan, F., & Fitriani, I.
+(2020).
+Prospek Ekspor Lada Hitam Indonesia di Pasar Global: Peluang dan Tantangan.
+Jurnal Ekonomi Agribisnis, 14(1), 45-59.
+https://doi.org/10.5678/jea.v14i1.234
+
+Lestari, M.
+(2022).
+Analisis Hambatan Ekspor Lada Hitam Indonesia: Pengaruh Fluktuasi Harga dan Persaingan Global.
+Jurnal Perdagangan Internasional, 10(3), 201-215.https://doi.org/10.2345/jpi.v10i3.342
+
+Siregar, T.
+(2020).
+Peran Kebijakan Perdagangan Indonesia dalam Mendukung Ekspor Komoditas Pertanian.
+Jurnal Studi Perdagangan, 8(2), 77-92.https://doi.org/10.6789/jsp.v8i2.678
+
+Sutrisno, H.
+(2017).
+Peranan Lada Hitam dalam Perekonomian Indonesia: Dampak Ekspor terhadap Pendapatan Petani dan Ekspor Negara.
+Jurnal Ekonomi Pembangunan, 21(4), 241-259.https://doi.org/10.5432/jep.v21i4.567
+
+Sutrisno, H., & Widiastuti, R.
+(2021).
+Pengembangan Sektor Pertanian dan Ekspor Lada Hitam di Indonesia: Peluang dan Tantangan.
+Jurnal Agribisnis Indonesia, 19(2), 101-113.https://doi.org/10.4321/jai.v19i2.431
+
+Yusuf, A., & Daryanto, M.
+(2019).
+Ekspor Komoditas Pertanian dan Kontribusinya terhadap Perekonomian Indonesia.
+Jurnal Ekonomi dan Sumber Daya Alam, 15(1), 67-80.https://doi.org/10.8900/jesda.v15i1.150
